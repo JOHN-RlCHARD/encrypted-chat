@@ -4,6 +4,13 @@ import base64
 import hashlib
 from cryptography.fernet import Fernet
 
+# NOMES DOS INTEGRANTES DO GRUPO
+# RA            NOME
+# 19087329      Artur Busani Xavier
+# 21980446      Joao Ricardo Alvarenga Ensenat
+# 17270612      Tobias Tassinari Dornelles
+
+
 ## CONEXAO COM BANCO DE DADOS
 connected = False
 try:
